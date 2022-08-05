@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Answers.Week01/1.0.0": {
+        "runtime": {
+          "Answers.Week01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Answers.Week01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
